@@ -21,10 +21,10 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 8. Run `bin/rails s -b 0.0.0.0` to start the server
 
 ## Final Product
-!["screenshot description"].()
-!["screenshot description"].()
-!["screenshot description"].()
-!["screenshot description"].()
+!["screenshot description"].(https://github.com/KurtSpiker/Jungle/blob/master/docs/Screenshot%20from%202021-11-18%2002-11-31.png)
+!["screenshot description"].(https://github.com/KurtSpiker/Jungle/blob/master/docs/Screenshot%20from%202021-11-18%2002-13-24.png)
+!["screenshot description"].(https://github.com/KurtSpiker/Jungle/blob/master/docs/Screenshot%20from%202021-11-18%2002-18-23.png)
+!["screenshot description"].(https://github.com/KurtSpiker/Jungle/blob/master/docs/Screenshot%20from%202021-11-18%2002-20-07.png)
 
 ## Stripe Testing
 
